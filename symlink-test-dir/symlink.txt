@@ -1,1 +1,3 @@
 I'm trying to symlink this file to the repo's root
+
+ after symlinking, committing with the symlink, and the cloning the repo to a new directory (all on Ubuntu), the symlink is also still validly linked in the freshly cloned repo
